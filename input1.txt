@@ -1,0 +1,6 @@
+%     half life of A B
+%     initial number of A B C
+%     Delta t
+%     final time
+%     unit (optional, default 's')
+1 10 100 0 0 1 50 h
